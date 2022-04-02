@@ -21,6 +21,7 @@ struct NavigationBarDeatiledView: View {
                     shop.selectedProduct = nil
                     shop.showingProduct = false
                 }
+                feedback.impactOccurred()
             }, label: {
                 Image(systemName: "chevron.left")
                     .font(.title)
@@ -32,7 +33,9 @@ struct NavigationBarDeatiledView: View {
             Spacer()
             
             
-            Button(action: {}, label: {
+            Button(action: {
+                feedback.impactOccurred()
+            }, label: {
                 
                 Image(systemName: "cart")
                     .font(.title)
