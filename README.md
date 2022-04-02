@@ -1,4 +1,4 @@
-# WyyK-Commerce
+# WyyK E-Commerce
 - IOS Best practices.
 - IOS e-commerce app developed using MVVM architecture with Swift UI.
 
