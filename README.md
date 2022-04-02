@@ -10,8 +10,6 @@
 > - Custom shape with Shape Path
 > - Decode JSON files and fetch data with SwiftUI
 
-![alt text](https://drive.google.com/uc?id=1frkB2g3FGLCBDN6icLGAJ9NM_k4mhCcD)
-
 > - <img src="https://user-images.githubusercontent.com/46722362/161402510-4d29b8e2-daa1-4a23-a579-09d1d0101fab.png"
       data-canonical-src="https://user-images.githubusercontent.com/46722362/161402510-4d29b8e2-daa1-4a23-a579-09d1d0101fab.png"
        width="240" height="450" />
@@ -33,8 +31,6 @@
        
        
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-
-[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://forthebadge.com)
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 
