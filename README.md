@@ -45,7 +45,7 @@ Still in Active Development.
 
 
 ### Developed by
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="Wycliff"><a class="LI-simple-link" href='https://in.linkedin.com/in/shrikanthravi?trk=profile-badge'>Wycliff Njenga</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="Wycliff"><a class="LI-simple-link" href='https://www.linkedin.com/in/wycliff-njenga-5973b512a/'>Wycliff Njenga</a></div>
 
   
 ### License
