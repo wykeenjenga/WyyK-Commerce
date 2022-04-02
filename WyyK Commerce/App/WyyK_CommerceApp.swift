@@ -12,6 +12,7 @@ struct WyyK_CommerceApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .environmentObject(Shop())//allows data 
         }
     }
 }
